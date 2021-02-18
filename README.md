@@ -1,2 +1,2 @@
-# Data Science
- Data Science, Machine Learning, Artificial Intelligence and IOT
+# Scala Programming 
+Scala Programming and Functional Concepts
